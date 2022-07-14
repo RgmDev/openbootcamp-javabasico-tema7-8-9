@@ -45,7 +45,7 @@ public class Main {
 
         // Punto 4
         System.out.println("\nPUNTO 4");
-        System.out.println("No hay problema, el vector agregará los 1000 elemntos");
+        System.out.println("Se desperdicia mucha memoria");
 
         // Punto 5
         System.out.println("\nPUNTO 5");
